@@ -2,7 +2,7 @@
 
 ## 📝 Overview
 
-This repository accompanies the paper: **A Web-Ready and 5G-Ready Volumetric Video Streaming Platform: A Platform Prototype and Empirical Study**
+This repository accompanies the paper: **[A Web-Ready and 5G-Ready Volumetric Video Streaming Platform: A Platform Prototype and Empirical Study](https://lineainteractividad.github.io/VholoStream/)**
  
 This repository accompanies a paper presenting an updated web- and 5G-compatible platform for live volumetric video streaming. It demonstrates real-time transmission and rendering of point-cloud data (PLY/Draco) over WebSocket and HTTP/DASH, and reports on an empirical evaluation of browser and device performance under varied network conditions and transport protocols.
 
