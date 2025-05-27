@@ -28,7 +28,9 @@ This Jupyter notebook was created using **Python 3.10.12** and requires the foll
 - `matplotlib==3.9.3`
 
 ⚠️ **Note:**  
-Make sure that `utils.py` is located in the **same folder level** as the notebook.
+ - Make sure that `utils.py` is located in the **same folder level** as the notebook.
+- The file **all.csv** has to be present in the folder **/experiments/processed/**,this is the processed dataset used in the analisis, all the others are raw datasets.
+- The section 1. of the notebook is simply data cleaning, the analysis of the metrics is present in section 2., which starts loading the **all.csv** file to a Pandas DataFrame
 
 
 
